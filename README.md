@@ -8,7 +8,7 @@ The files I kept re-explaining to Claude Code, so I stopped. A `CLAUDE.md` templ
 
 *Los archivos que le repetía a Claude Code cada vez, hasta que dejé de hacerlo. Plantilla de `CLAUDE.md`, reglas por carpeta, la estructura de la memoria automática y dos chuletas (plan mode y contexto). Todo contrastado con la documentación oficial. Resumen en castellano al final.*
 
-Not affiliated with Anthropic.
+Not affiliated with Anthropic. I post one Claude Code tip per video, under 40 seconds, as [@theclaudedev](https://www.instagram.com/theclaudedev/) on Instagram. The presenter there is an AI-generated character; the tips are mine.
 
 ## What is in here
 
@@ -73,6 +73,7 @@ A `CLAUDE.md` can pull in other files with `@path/to/file` on its own line. Impo
 - `memory/` explica la memoria automática: Claude guarda sus propias notas en `~/.claude/projects/<proyecto>/memory/`, con un índice `MEMORY.md` del que solo se cargan las primeras 200 líneas.
 - `docs/plan-mode.md`: `Shift+Tab` hasta ver `plan mode on`, o `/plan` delante del prompt, o `claude --permission-mode plan`. Claude lee y propone, no edita hasta que apruebas.
 - `docs/context.md`: `/clear` entre tareas distintas, `/compact` cuando la sesión es larga, `/context` para ver qué hay cargado. Casi todos los "he llegado al límite" son un problema de contexto, no de cuota.
+- En Instagram, [@theclaudedev](https://www.instagram.com/theclaudedev/): un truco de Claude Code por vídeo, en inglés, en menos de 40 segundos.
 
 ## Sources
 
