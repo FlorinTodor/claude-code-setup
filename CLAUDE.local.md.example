@@ -1,0 +1,9 @@
+# Personal notes (not committed)
+
+<!-- Copy this file to CLAUDE.local.md. It loads alongside CLAUDE.md, in the
+     same way, but it is gitignored, so it is the place for things only you
+     care about: your editor, your shortcuts, half-finished experiments. -->
+
+- I use `uv` for everything, so suggest `uv run pytest`, not `python -m pytest`.
+- My Postgres runs on port 5433 locally, not 5432.
+- Current focus: the billing refactor on branch `feat/billing-v2`. Ignore the old `billing_legacy/` folder.

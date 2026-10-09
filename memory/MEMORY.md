@@ -1,0 +1,3 @@
+- [Who I am](user-role.md) — backend dev, Python, prefers small diffs and tests first
+- [Testing feedback](feedback-testing.md) — never mock the repository layer; run a single test file while iterating
+- [Billing refactor](project-example.md) — feat/billing-v2, due end of October 2026
